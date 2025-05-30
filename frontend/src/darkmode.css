@@ -1,0 +1,30 @@
+/* darkmode.css */
+.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+.dark-mode .container,
+.dark-mode .row,
+.dark-mode .col {
+  color: white;
+}
+
+.dark-mode h1,
+.dark-mode h2,
+.dark-mode h3,
+.dark-mode h4,
+.dark-mode p {
+  color: white;
+}
+.dark-mode .card {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  border-color: #333;
+}
+
+.dark-mode .card .card-title,
+.dark-mode .card .card-subtitle,
+.dark-mode .card .card-text {
+  color: #ffffff;
+}
